@@ -1,6 +1,10 @@
 {
-  "dependencies": {
-    "deasync": "^0.1.30",
-    "ws": "^8.18.3"
-  }
+  "name": "pyjs",
+  "version": "1.0.0",
+  "description": "A hybrid Python-JavaScript module",
+  "main": "index.mjs",
+  "type": "module",
+  "keywords": ["python", "javascript", "interop"],
+  "author": "Your Name",
+  "license": "MIT"
 }

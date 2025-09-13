@@ -1,1 +1,3 @@
 node_modules/
+pyjslog/
+pyjs/__pycache__/
